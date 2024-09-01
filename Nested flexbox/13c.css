@@ -1,0 +1,56 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 0px 10px rgba(181, 181, 181, 0.6);
+    padding-left: 15px;
+    padding-top: 9px;
+    padding-bottom: 30px;
+    width: 370px;
+
+}
+.column1{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 0px;
+    
+}
+.box{
+    display: flex;
+    display: row;
+    margin-top: 10px;
+
+    padding-right: 0px;
+    
+}
+.pic{
+    border-radius: 100px;
+    width: 40px;
+    margin-right: 15px;
+}
+.title{
+    color: grey;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+.name,.column2{
+    font-weight: bold;
+}
+.name{
+    font-size: 13px;
+}
+.column2{
+    font-size: 11px;
+}
+.column3{
+    color: grey;
+    font-size: 9px;
+
+}
+.time{
+    color: gray;
+    font-size: 11px;
+}
+.columns{
+    line-height: 15px;
+}

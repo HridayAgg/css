@@ -1,0 +1,17 @@
+.right{
+    background-color: green;
+    color: white;
+    right: 0;
+    top: 0;
+    width: 100px;
+    bottom: 0;
+    position: fixed;
+}
+.black{
+    top: 0px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    background-color: black;
+}
